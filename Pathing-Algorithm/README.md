@@ -12,6 +12,23 @@ Sample input :
 11,11
 5,5
 
+Sample input :
+5 2 12 25
+2,15
+18,1
+5,12;6,17
+12,3;15,4
+1,1
+1,12
+2,3
+3,2
+17,20
+21,10
+21,14
+22,5
+3,13
+16,6
+
 
 First Line: Number of Neighbours, Number of Obsticles, Number of Points,Dimentions (Best to stick with 25x25 as the graphing functins only graphs to 25 or now)
 
