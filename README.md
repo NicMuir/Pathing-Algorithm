@@ -1,2 +1,2 @@
 # Pathing-Algorithm
-Pathing Algorithm using ASTAR and Dijkstra's algorithms.
+Pathing Algorithm using A* and Dijkstra's algorithms.
