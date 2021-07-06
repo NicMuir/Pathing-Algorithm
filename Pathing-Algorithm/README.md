@@ -30,7 +30,7 @@ Sample input :
 16,6
 
 
-First Line: Number of Neighbours, Number of Obsticles, Number of Points,Dimentions (Best to stick with 25x25 as the graphing functins only graphs to 25 or now)
+First Line: Number of Neighbours, Number of Obsticles, Number of Points,Dimentions (Best to stick with 25x25 as the graphing functions only graphs to 25 for now)
 
 Second Line: Starting Point
 Third Line : End Point 
